@@ -47,7 +47,7 @@ Models trained:
 ---
 
 ## Final Model
-The trained best model (`best_gpa_model.pkl`) is stored inside `/models`.
+The trained best model (`model1.pkl`) is stored inside `/models`.
 
 You can load it using:
 
