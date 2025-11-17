@@ -53,4 +53,4 @@ You can load it using:
 
 ```python
 import joblib
-model = joblib.load("models/best_gpa_model.pkl")
+model = joblib.load("models/model1.pkl")
